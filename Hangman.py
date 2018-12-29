@@ -3,7 +3,7 @@ print("Hang Man")
 print("""
 Player 1 picks the secret word for Player 2 to guess.
 
-You have 15 Guesses.
+You have 14 Guesses.
 
 Type 'hint' for a hint.
 Type 'help' for this help.
